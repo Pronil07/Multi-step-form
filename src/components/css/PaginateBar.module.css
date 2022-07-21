@@ -53,11 +53,15 @@
      appearance: none;
   }
   
-  .progressBar::-webkit-progress-bar {
+.progressBar::-moz-progress-bar{
+    background-color: var(--primaryColor)
+}
+
+.progressBar::-webkit-progress-bar {
     background-color: rgba(0, 0, 0, 0.1);
   }
   
-  .progressBar::-webkit-progress-value {
+.progressBar::-webkit-progress-value {
       background-color: var(--primaryColor);
   }
 
