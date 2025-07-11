@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Multistep FORM
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="538" height="649" alt="image" src="https://github.com/user-attachments/assets/ec069220-a96f-4ee4-856e-1c4dca701006" />
+
+Its a simple multi-step form done with react and pure css. 
 
 ## Available Scripts
 
